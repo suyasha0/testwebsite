@@ -1,0 +1,98 @@
+.navbar {
+  height: 50px;
+  background:rgba(0,0,0,.5);
+}
+
+.navbar > a:link {
+  color: #DCDCDC;
+}
+
+.navbar > a:visited{
+  color: #DCDCDC;
+}
+
+.jumbotron{
+  background:rgba(106,90,205,.5);
+}
+
+.jumbotron-2 {
+  height: 310px;
+  background-image: url("assets/img1.jpg");
+}
+
+.jumbotron-3 {
+  height: 310px;
+  background-image: url("assets/img2.jpg");
+}
+
+.portfolio{
+  background:rgba(106,90,205,.5);
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 50px;
+}
+
+.navbar .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background:rgba(0,0,0,.5);
+    color: #F0FFFF;
+}
+
+.navbar-brand {
+  line-height: 18px;
+}
+
+.img-circle{
+  margin-top: 50px;
+}
+
+.end {
+  height: 310px;
+  background:rgba(65,65,65,.5); 
+}
+
+h4{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+p{
+  margin-top: 50px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-github {
+    background: #000000;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb6;
+    color: white;
+}
+
+.contact{
+  font-size: 20px;
+  color:rgba(106,90,205,.7);
+}
+
+.fa-envelope-o {
+  color:rgba(106,90,205,.7);
+  font-size: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
